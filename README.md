@@ -1,5 +1,4 @@
-- 👋 Hi, I’m @Joseph-ali
-- 👀 I’m interested in stand-alone apps and web apps.
-- 🌱 I’m currently learning Spring boot and React.
+- 👋 Hi, I’m Yousef Ali.
+- 👀 I write things and they work.
+- 🌱 I’m currently learning Spring boot, React, and C++.
 - 📫 How to reach me joseph.ali.754@gmail.com
-
